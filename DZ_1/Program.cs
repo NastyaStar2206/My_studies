@@ -49,3 +49,29 @@ if(num3 > max) max = num3;
 Console.Write("max = ");
 Console.Write(max);
 */
+
+/*Задача 3: 
+Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+4 -> да
+-3 -> нет
+7 -> нет
+*/
+
+/*int num, del;
+
+Console.Write("Input a num: ");
+num = Convert.ToInt32(Console.ReadLine());
+
+del = num / 2;
+
+if(del * 2 == num)
+
+{
+    Console.WriteLine(num + " четное");
+}
+else
+{
+    Console.WriteLine(num + " нечетное");
+}
+*/
