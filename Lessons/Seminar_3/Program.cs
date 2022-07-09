@@ -45,7 +45,7 @@ Console.WriteLine("Номер четверти: " + Quart(x, y));
 
 
 //Написать программу, которая принимает на вход число n (целочисленное) и возвращает квадраты всех чисел от 1 до n.
-
+/*
 void Quad(int x)
 {
     int current = 1;
@@ -59,3 +59,4 @@ void Quad(int x)
 Console.Write("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Quad(n);
+*/
