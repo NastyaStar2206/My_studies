@@ -22,7 +22,7 @@ void ShowArray(double[,] array)
             Console.Write(array[i,j] + " ");
         }
         Console.WriteLine();
-    }
+    } 
         
 } 
 int min = -10;
